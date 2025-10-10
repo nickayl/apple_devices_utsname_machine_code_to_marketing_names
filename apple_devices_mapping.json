@@ -1,0 +1,898 @@
+[
+  {
+    "code": "iPhone1,1",
+    "marketingName": "iPhone"
+  },
+  {
+    "code": "iPhone1,2",
+    "marketingName": "iPhone 3G"
+  },
+  {
+    "code": "iPhone2,1",
+    "marketingName": "iPhone 3GS"
+  },
+  {
+    "code": "iPhone3,1",
+    "marketingName": "iPhone 4"
+  },
+  {
+    "code": "iPhone3,2",
+    "marketingName": "iPhone 4 GSM Rev A"
+  },
+  {
+    "code": "iPhone3,3",
+    "marketingName": "iPhone 4 CDMA"
+  },
+  {
+    "code": "iPhone4,1",
+    "marketingName": "iPhone 4S"
+  },
+  {
+    "code": "iPhone5,1",
+    "marketingName": "iPhone 5 (GSM)"
+  },
+  {
+    "code": "iPhone5,2",
+    "marketingName": "iPhone 5 (GSM+CDMA)"
+  },
+  {
+    "code": "iPhone5,3",
+    "marketingName": "iPhone 5C (GSM)"
+  },
+  {
+    "code": "iPhone5,4",
+    "marketingName": "iPhone 5C (Global)"
+  },
+  {
+    "code": "iPhone6,1",
+    "marketingName": "iPhone 5S (GSM)"
+  },
+  {
+    "code": "iPhone6,2",
+    "marketingName": "iPhone 5S (Global)"
+  },
+  {
+    "code": "iPhone7,1",
+    "marketingName": "iPhone 6 Plus"
+  },
+  {
+    "code": "iPhone7,2",
+    "marketingName": "iPhone 6"
+  },
+  {
+    "code": "iPhone8,1",
+    "marketingName": "iPhone 6s"
+  },
+  {
+    "code": "iPhone8,2",
+    "marketingName": "iPhone 6s Plus"
+  },
+  {
+    "code": "iPhone8,4",
+    "marketingName": "iPhone SE (GSM)"
+  },
+  {
+    "code": "iPhone9,1",
+    "marketingName": "iPhone 7"
+  },
+  {
+    "code": "iPhone9,2",
+    "marketingName": "iPhone 7 Plus"
+  },
+  {
+    "code": "iPhone9,3",
+    "marketingName": "iPhone 7"
+  },
+  {
+    "code": "iPhone9,4",
+    "marketingName": "iPhone 7 Plus"
+  },
+  {
+    "code": "iPhone10,1",
+    "marketingName": "iPhone 8"
+  },
+  {
+    "code": "iPhone10,2",
+    "marketingName": "iPhone 8 Plus"
+  },
+  {
+    "code": "iPhone10,3",
+    "marketingName": "iPhone X Global"
+  },
+  {
+    "code": "iPhone10,4",
+    "marketingName": "iPhone 8"
+  },
+  {
+    "code": "iPhone10,5",
+    "marketingName": "iPhone 8 Plus"
+  },
+  {
+    "code": "iPhone10,6",
+    "marketingName": "iPhone X GSM"
+  },
+  {
+    "code": "iPhone11,2",
+    "marketingName": "iPhone XS"
+  },
+  {
+    "code": "iPhone11,4",
+    "marketingName": "iPhone XS Max"
+  },
+  {
+    "code": "iPhone11,6",
+    "marketingName": "iPhone XS Max Global"
+  },
+  {
+    "code": "iPhone11,8",
+    "marketingName": "iPhone XR"
+  },
+  {
+    "code": "iPhone12,1",
+    "marketingName": "iPhone 11"
+  },
+  {
+    "code": "iPhone12,3",
+    "marketingName": "iPhone 11 Pro"
+  },
+  {
+    "code": "iPhone12,5",
+    "marketingName": "iPhone 11 Pro Max"
+  },
+  {
+    "code": "iPhone12,8",
+    "marketingName": "iPhone SE 2nd Gen"
+  },
+  {
+    "code": "iPhone13,1",
+    "marketingName": "iPhone 12 Mini"
+  },
+  {
+    "code": "iPhone13,2",
+    "marketingName": "iPhone 12"
+  },
+  {
+    "code": "iPhone13,3",
+    "marketingName": "iPhone 12 Pro"
+  },
+  {
+    "code": "iPhone13,4",
+    "marketingName": "iPhone 12 Pro Max"
+  },
+  {
+    "code": "iPhone14,2",
+    "marketingName": "iPhone 13 Pro"
+  },
+  {
+    "code": "iPhone14,3",
+    "marketingName": "iPhone 13 Pro Max"
+  },
+  {
+    "code": "iPhone14,4",
+    "marketingName": "iPhone 13 Mini"
+  },
+  {
+    "code": "iPhone14,5",
+    "marketingName": "iPhone 13"
+  },
+  {
+    "code": "iPhone14,6",
+    "marketingName": "iPhone SE 3rd Gen"
+  },
+  {
+    "code": "iPhone14,7",
+    "marketingName": "iPhone 14"
+  },
+  {
+    "code": "iPhone14,8",
+    "marketingName": "iPhone 14 Plus"
+  },
+  {
+    "code": "iPhone15,2",
+    "marketingName": "iPhone 14 Pro"
+  },
+  {
+    "code": "iPhone15,3",
+    "marketingName": "iPhone 14 Pro Max"
+  },
+  {
+    "code": "iPhone15,4",
+    "marketingName": "iPhone 15"
+  },
+  {
+    "code": "iPhone15,5",
+    "marketingName": "iPhone 15 Plus"
+  },
+  {
+    "code": "iPhone16,1",
+    "marketingName": "iPhone 15 Pro"
+  },
+  {
+    "code": "iPhone16,2",
+    "marketingName": "iPhone 15 Pro Max"
+  },
+  {
+    "code": "iPhone17,1",
+    "marketingName": "iPhone 16 Pro"
+  },
+  {
+    "code": "iPhone17,2",
+    "marketingName": "iPhone 16 Pro Max"
+  },
+  {
+    "code": "iPhone17,3",
+    "marketingName": "iPhone 16"
+  },
+  {
+    "code": "iPhone17,4",
+    "marketingName": "iPhone 16 Plus"
+  },
+  {
+    "code": "iPhone17,5",
+    "marketingName": "iPhone 16e"
+  },
+  {
+    "code": "iPhone18,1",
+    "marketingName": "iPhone 17 Pro"
+  },
+  {
+    "code": "iPhone18,2",
+    "marketingName": "iPhone 17 Pro Max"
+  },
+  {
+    "code": "iPhone18,3",
+    "marketingName": "iPhone 17"
+  },
+  {
+    "code": "iPhone18,4",
+    "marketingName": "iPhone Air"
+  },
+  {
+    "code": "iPod1,1",
+    "marketingName": "1st Gen iPod"
+  },
+  {
+    "code": "iPod2,1",
+    "marketingName": "2nd Gen iPod"
+  },
+  {
+    "code": "iPod3,1",
+    "marketingName": "3rd Gen iPod"
+  },
+  {
+    "code": "iPod4,1",
+    "marketingName": "4th Gen iPod"
+  },
+  {
+    "code": "iPod5,1",
+    "marketingName": "5th Gen iPod"
+  },
+  {
+    "code": "iPod7,1",
+    "marketingName": "6th Gen iPod"
+  },
+  {
+    "code": "iPod9,1",
+    "marketingName": "7th Gen iPod"
+  },
+  {
+    "code": "iPad1,1",
+    "marketingName": "iPad"
+  },
+  {
+    "code": "iPad1,2",
+    "marketingName": "iPad 3G"
+  },
+  {
+    "code": "iPad2,1",
+    "marketingName": "2nd Gen iPad"
+  },
+  {
+    "code": "iPad2,2",
+    "marketingName": "2nd Gen iPad GSM"
+  },
+  {
+    "code": "iPad2,3",
+    "marketingName": "2nd Gen iPad CDMA"
+  },
+  {
+    "code": "iPad2,4",
+    "marketingName": "2nd Gen iPad New Revision"
+  },
+  {
+    "code": "iPad3,1",
+    "marketingName": "3rd Gen iPad"
+  },
+  {
+    "code": "iPad3,2",
+    "marketingName": "3rd Gen iPad CDMA"
+  },
+  {
+    "code": "iPad3,3",
+    "marketingName": "3rd Gen iPad GSM"
+  },
+  {
+    "code": "iPad2,5",
+    "marketingName": "iPad mini"
+  },
+  {
+    "code": "iPad2,6",
+    "marketingName": "iPad mini GSM+LTE"
+  },
+  {
+    "code": "iPad2,7",
+    "marketingName": "iPad mini CDMA+LTE"
+  },
+  {
+    "code": "iPad3,4",
+    "marketingName": "4th Gen iPad"
+  },
+  {
+    "code": "iPad3,5",
+    "marketingName": "4th Gen iPad GSM+LTE"
+  },
+  {
+    "code": "iPad3,6",
+    "marketingName": "4th Gen iPad CDMA+LTE"
+  },
+  {
+    "code": "iPad4,1",
+    "marketingName": "iPad Air (WiFi)"
+  },
+  {
+    "code": "iPad4,2",
+    "marketingName": "iPad Air (GSM+CDMA)"
+  },
+  {
+    "code": "iPad4,3",
+    "marketingName": "1st Gen iPad Air (China)"
+  },
+  {
+    "code": "iPad4,4",
+    "marketingName": "iPad mini Retina (WiFi)"
+  },
+  {
+    "code": "iPad4,5",
+    "marketingName": "iPad mini Retina (GSM+CDMA)"
+  },
+  {
+    "code": "iPad4,6",
+    "marketingName": "iPad mini Retina (China)"
+  },
+  {
+    "code": "iPad4,7",
+    "marketingName": "iPad mini 3 (WiFi)"
+  },
+  {
+    "code": "iPad4,8",
+    "marketingName": "iPad mini 3 (GSM+CDMA)"
+  },
+  {
+    "code": "iPad4,9",
+    "marketingName": "iPad Mini 3 (China)"
+  },
+  {
+    "code": "iPad5,1",
+    "marketingName": "iPad mini 4 (WiFi)"
+  },
+  {
+    "code": "iPad5,2",
+    "marketingName": "iPad mini 4 (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad5,3",
+    "marketingName": "iPad Air 2 (WiFi)"
+  },
+  {
+    "code": "iPad5,4",
+    "marketingName": "iPad Air 2 (Cellular)"
+  },
+  {
+    "code": "iPad6,3",
+    "marketingName": "iPad Pro (9.7 inch, WiFi)"
+  },
+  {
+    "code": "iPad6,4",
+    "marketingName": "iPad Pro (9.7 inch, WiFi+LTE)"
+  },
+  {
+    "code": "iPad6,7",
+    "marketingName": "iPad Pro (12.9 inch, WiFi)"
+  },
+  {
+    "code": "iPad6,8",
+    "marketingName": "iPad Pro (12.9 inch, WiFi+LTE)"
+  },
+  {
+    "code": "iPad6,11",
+    "marketingName": "iPad (2017)"
+  },
+  {
+    "code": "iPad6,12",
+    "marketingName": "iPad (2017)"
+  },
+  {
+    "code": "iPad7,1",
+    "marketingName": "iPad Pro 2nd Gen (WiFi)"
+  },
+  {
+    "code": "iPad7,2",
+    "marketingName": "iPad Pro 2nd Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad7,3",
+    "marketingName": "iPad Pro 10.5-inch 2nd Gen (WiFi)"
+  },
+  {
+    "code": "iPad7,4",
+    "marketingName": "iPad Pro 10.5-inch 2nd Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad7,5",
+    "marketingName": "iPad 6th Gen (WiFi)"
+  },
+  {
+    "code": "iPad7,6",
+    "marketingName": "iPad 6th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad7,11",
+    "marketingName": "iPad 7th Gen 10.2-inch (WiFi)"
+  },
+  {
+    "code": "iPad7,12",
+    "marketingName": "iPad 7th Gen 10.2-inch (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad8,1",
+    "marketingName": "iPad Pro 11 inch 3rd Gen (WiFi)"
+  },
+  {
+    "code": "iPad8,2",
+    "marketingName": "iPad Pro 11 inch 3rd Gen (1TB, WiFi)"
+  },
+  {
+    "code": "iPad8,3",
+    "marketingName": "iPad Pro 11 inch 3rd Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad8,4",
+    "marketingName": "iPad Pro 11 inch 3rd Gen (1TB, WiFi+Cellular)"
+  },
+  {
+    "code": "iPad8,5",
+    "marketingName": "iPad Pro 12.9 inch 3rd Gen (WiFi)"
+  },
+  {
+    "code": "iPad8,6",
+    "marketingName": "iPad Pro 12.9 inch 3rd Gen (1TB, WiFi)"
+  },
+  {
+    "code": "iPad8,7",
+    "marketingName": "iPad Pro 12.9 inch 3rd Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad8,8",
+    "marketingName": "iPad Pro 12.9 inch 3rd Gen (1TB, WiFi+Cellular)"
+  },
+  {
+    "code": "iPad8,9",
+    "marketingName": "iPad Pro 11 inch 4th Gen (WiFi)"
+  },
+  {
+    "code": "iPad8,10",
+    "marketingName": "iPad Pro 11 inch 4th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad8,11",
+    "marketingName": "iPad Pro 12.9 inch 4th Gen (WiFi)"
+  },
+  {
+    "code": "iPad8,12",
+    "marketingName": "iPad Pro 12.9 inch 4th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad11,1",
+    "marketingName": "iPad mini 5th Gen (WiFi)"
+  },
+  {
+    "code": "iPad11,2",
+    "marketingName": "iPad mini 5th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad11,3",
+    "marketingName": "iPad Air 3rd Gen (WiFi)"
+  },
+  {
+    "code": "iPad11,4",
+    "marketingName": "iPad Air 3rd Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad11,6",
+    "marketingName": "iPad 8th Gen (WiFi)"
+  },
+  {
+    "code": "iPad11,7",
+    "marketingName": "iPad 8th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad12,1",
+    "marketingName": "iPad 9th Gen (WiFi)"
+  },
+  {
+    "code": "iPad12,2",
+    "marketingName": "iPad 9th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad14,1",
+    "marketingName": "iPad mini 6th Gen (WiFi)"
+  },
+  {
+    "code": "iPad14,2",
+    "marketingName": "iPad mini 6th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad13,1",
+    "marketingName": "iPad Air 4th Gen (WiFi)"
+  },
+  {
+    "code": "iPad13,2",
+    "marketingName": "iPad Air 4th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad13,4",
+    "marketingName": "iPad Pro 11 inch 5th Gen"
+  },
+  {
+    "code": "iPad13,5",
+    "marketingName": "iPad Pro 11 inch 5th Gen"
+  },
+  {
+    "code": "iPad13,6",
+    "marketingName": "iPad Pro 11 inch 5th Gen"
+  },
+  {
+    "code": "iPad13,7",
+    "marketingName": "iPad Pro 11 inch 5th Gen"
+  },
+  {
+    "code": "iPad13,8",
+    "marketingName": "iPad Pro 12.9 inch 5th Gen"
+  },
+  {
+    "code": "iPad13,9",
+    "marketingName": "iPad Pro 12.9 inch 5th Gen"
+  },
+  {
+    "code": "iPad13,10",
+    "marketingName": "iPad Pro 12.9 inch 5th Gen"
+  },
+  {
+    "code": "iPad13,11",
+    "marketingName": "iPad Pro 12.9 inch 5th Gen"
+  },
+  {
+    "code": "iPad13,16",
+    "marketingName": "iPad Air 5th Gen (WiFi)"
+  },
+  {
+    "code": "iPad13,17",
+    "marketingName": "iPad Air 5th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad13,18",
+    "marketingName": "iPad 10th Gen (WiFi)"
+  },
+  {
+    "code": "iPad13,19",
+    "marketingName": "iPad 10th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad14,3",
+    "marketingName": "iPad Pro 11 inch 4th Gen (WiFi)"
+  },
+  {
+    "code": "iPad14,4",
+    "marketingName": "iPad Pro 11 inch 4th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad14,5",
+    "marketingName": "iPad Pro 12.9 inch 6th Gen (WiFi)"
+  },
+  {
+    "code": "iPad14,6",
+    "marketingName": "iPad Pro 12.9 inch 6th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad14,8",
+    "marketingName": "iPad Air 11 inch 6th Gen (WiFi)"
+  },
+  {
+    "code": "iPad14,9",
+    "marketingName": "iPad Air 11 inch 6th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad14,10",
+    "marketingName": "iPad Air 13 inch 6th Gen (WiFi)"
+  },
+  {
+    "code": "iPad14,11",
+    "marketingName": "iPad Air 13 inch 6th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad15,3",
+    "marketingName": "iPad Air 11-inch 7th Gen (WiFi)"
+  },
+  {
+    "code": "iPad15,4",
+    "marketingName": "iPad Air 11-inch 7th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad15,5",
+    "marketingName": "iPad Air 13-inch 7th Gen (WiFi)"
+  },
+  {
+    "code": "iPad15,6",
+    "marketingName": "iPad Air 13-inch 7th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad15,7",
+    "marketingName": "iPad 11th Gen (WiFi)"
+  },
+  {
+    "code": "iPad15,8",
+    "marketingName": "iPad 11th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad16,1",
+    "marketingName": "iPad mini 7th Gen (WiFi)"
+  },
+  {
+    "code": "iPad16,2",
+    "marketingName": "iPad mini 7th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad16,3",
+    "marketingName": "iPad Pro 11 inch 5th Gen (WiFi)"
+  },
+  {
+    "code": "iPad16,4",
+    "marketingName": "iPad Pro 11 inch 5th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "iPad16,5",
+    "marketingName": "iPad Pro 12.9 inch 7th Gen (WiFi)"
+  },
+  {
+    "code": "iPad16,6",
+    "marketingName": "iPad Pro 12.9 inch 7th Gen (WiFi+Cellular)"
+  },
+  {
+    "code": "Watch1,1",
+    "marketingName": "Apple Watch 38mm case"
+  },
+  {
+    "code": "Watch1,2",
+    "marketingName": "Apple Watch 42mm case"
+  },
+  {
+    "code": "Watch2,6",
+    "marketingName": "Apple Watch Series 1 38mm case"
+  },
+  {
+    "code": "Watch2,7",
+    "marketingName": "Apple Watch Series 1 42mm case"
+  },
+  {
+    "code": "Watch2,3",
+    "marketingName": "Apple Watch Series 2 38mm case"
+  },
+  {
+    "code": "Watch2,4",
+    "marketingName": "Apple Watch Series 2 42mm case"
+  },
+  {
+    "code": "Watch3,1",
+    "marketingName": "Apple Watch Series 3 38mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch3,2",
+    "marketingName": "Apple Watch Series 3 42mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch3,3",
+    "marketingName": "Apple Watch Series 3 38mm case (GPS)"
+  },
+  {
+    "code": "Watch3,4",
+    "marketingName": "Apple Watch Series 3 42mm case (GPS)"
+  },
+  {
+    "code": "Watch4,1",
+    "marketingName": "Apple Watch Series 4 40mm case (GPS)"
+  },
+  {
+    "code": "Watch4,2",
+    "marketingName": "Apple Watch Series 4 44mm case (GPS)"
+  },
+  {
+    "code": "Watch4,3",
+    "marketingName": "Apple Watch Series 4 40mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch4,4",
+    "marketingName": "Apple Watch Series 4 44mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch5,1",
+    "marketingName": "Apple Watch Series 5 40mm case (GPS)"
+  },
+  {
+    "code": "Watch5,2",
+    "marketingName": "Apple Watch Series 5 44mm case (GPS)"
+  },
+  {
+    "code": "Watch5,3",
+    "marketingName": "Apple Watch Series 5 40mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch5,4",
+    "marketingName": "Apple Watch Series 5 44mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch5,9",
+    "marketingName": "Apple Watch SE 40mm case (GPS)"
+  },
+  {
+    "code": "Watch5,10",
+    "marketingName": "Apple Watch SE 44mm case (GPS)"
+  },
+  {
+    "code": "Watch5,11",
+    "marketingName": "Apple Watch SE 40mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch5,12",
+    "marketingName": "Apple Watch SE 44mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch6,1",
+    "marketingName": "Apple Watch Series 6 40mm case (GPS)"
+  },
+  {
+    "code": "Watch6,2",
+    "marketingName": "Apple Watch Series 6 44mm case (GPS)"
+  },
+  {
+    "code": "Watch6,3",
+    "marketingName": "Apple Watch Series 6 40mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch6,4",
+    "marketingName": "Apple Watch Series 6 44mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch6,6",
+    "marketingName": "Apple Watch Series 7 41mm case (GPS)"
+  },
+  {
+    "code": "Watch6,7",
+    "marketingName": "Apple Watch Series 7 45mm case (GPS)"
+  },
+  {
+    "code": "Watch6,8",
+    "marketingName": "Apple Watch Series 7 41mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch6,9",
+    "marketingName": "Apple Watch Series 7 45mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch6,10",
+    "marketingName": "Apple Watch SE 40mm case (GPS)"
+  },
+  {
+    "code": "Watch6,11",
+    "marketingName": "Apple Watch SE 44mm case (GPS)"
+  },
+  {
+    "code": "Watch6,12",
+    "marketingName": "Apple Watch SE 40mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch6,13",
+    "marketingName": "Apple Watch SE 44mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch6,14",
+    "marketingName": "Apple Watch Series 8 41mm case (GPS)"
+  },
+  {
+    "code": "Watch6,15",
+    "marketingName": "Apple Watch Series 8 45mm case (GPS)"
+  },
+  {
+    "code": "Watch6,16",
+    "marketingName": "Apple Watch Series 8 41mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch6,17",
+    "marketingName": "Apple Watch Series 8 45mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch6,18",
+    "marketingName": "Apple Watch Ultra"
+  },
+  {
+    "code": "Watch7,1",
+    "marketingName": "Apple Watch Series 9 41mm case (GPS)"
+  },
+  {
+    "code": "Watch7,2",
+    "marketingName": "Apple Watch Series 9 45mm case (GPS)"
+  },
+  {
+    "code": "Watch7,3",
+    "marketingName": "Apple Watch Series 9 41mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch7,4",
+    "marketingName": "Apple Watch Series 9 45mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch7,5",
+    "marketingName": "Apple Watch Ultra 2"
+  },
+  {
+    "code": "Watch7,8",
+    "marketingName": "Apple Watch Series 10 42mm case (GPS)"
+  },
+  {
+    "code": "Watch7,9",
+    "marketingName": "Apple Watch Series 10 46mm case (GPS)"
+  },
+  {
+    "code": "Watch7,10",
+    "marketingName": "Apple Watch Series 10 42mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch7,11",
+    "marketingName": "Apple Watch Series 10 46mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch7,12",
+    "marketingName": "Apple Watch Ultra 3 49mm case"
+  },
+  {
+    "code": "Watch7,13",
+    "marketingName": "Apple Watch SE 3 40mm case"
+  },
+  {
+    "code": "Watch7,14",
+    "marketingName": "Apple Watch SE 3 44mm case"
+  },
+  {
+    "code": "Watch7,15",
+    "marketingName": "Apple Watch SE 3 40mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch7,16",
+    "marketingName": "Apple Watch SE 3 44mm case (GPS+Cellular)"
+  },
+  {
+    "code": "Watch7,17",
+    "marketingName": "Apple Watch Series 11 42mm case"
+  },
+  {
+    "code": "Watch7,18",
+    "marketingName": "Apple Watch Series 11 46mm case"
+  },
+  {
+    "code": "Watch7,19",
+    "marketingName": "Apple Watch Series 11 42mm case (GPS+Celllular)"
+  },
+  {
+    "code": "Watch7,20",
+    "marketingName": "Apple Watch Series 11 46mm case (GPS+Celllular)"
+  }
+]
